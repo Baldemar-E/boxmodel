@@ -2,7 +2,7 @@
 /* CSS Document */
 body{
   align-items: center;
-  background-image: url("images/dot.png");
+  background-image: url("images/dot.png"); repeat;
   background-size:cover;
 
 

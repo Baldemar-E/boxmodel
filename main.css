@@ -3,7 +3,7 @@
 body{
   align-items: center;
   background-image: url("images/dot.png");
-  background-size:cover;repeat;
+  background-repeat: repeat-x;
 
 
 }

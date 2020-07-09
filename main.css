@@ -2,8 +2,8 @@
 /* CSS Document */
 body{
   align-items: center;
-  background-image: url("images/dot.png"); repeat;
-  background-size:cover;
+  background-image: url("images/dot.png");
+  background-size:cover;repeat;
 
 
 }

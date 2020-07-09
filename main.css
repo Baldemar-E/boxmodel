@@ -2,7 +2,7 @@
 /* CSS Document */
 body{
   align-items: center;
-  background-image: url("images/dot.png");
+  background-image: url("images/sleepemoji.png");
   background-repeat: repeat-space;
 
 
@@ -23,7 +23,7 @@ font-family: 'Dancing Script', cursive;
   font-style: normal;
   text-align: center;
   font-color: white;
-  background: url(images/header_bkg.png);
+  background: url(images/sleep31.jpg);
   background-size:cover;
    background-position: 100% 100%;
   background-repeat: no-repeat;
